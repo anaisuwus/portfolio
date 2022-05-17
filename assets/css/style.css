@@ -4,8 +4,8 @@
 }
 
 @font-face {
-  font-family: Silkserif;
-  src: url("https://doc-10-78-docs.googleusercontent.com/docs/securesc/agpqud1d0f3pf716vje7u7r1teuc1qjf/r8nf7bhf6k32368meucj1shsocasgdvp/1652744025000/16028078966541399467/08010429564508252389/1I-A-OwmcE02IQ64xp23JXDqmvJ3LiVr7?e=download&ax=ACxEAsZCCZKNDT4up4-r6akF8OXQN0B1WHnl1184RHqNojAq-a_HFW50HgGzjUzq5W38slaotkEj1E5O8hsoO3e6T5NgWly10TUaLtYA3LRSxvfrqjb_M3adZeItNi-fUhf9sFDLI0ciEuszPabg6J8cpSkqx7eXXI6rMGSRwSvAVVynPsz4KqWGMLOqoHIAy_kdNp-sj3ZZaZpYp7XVTI6XKu0ZSBtJ7FBVgEl7VvHucRupLwbUZsDBVuUk-IJ7y52kgJDjFcr4i_b8QeSH1fTwiJm5jfQk-3qMQt-r3racJZcVm5g4GFY2DIYJ90RTQEjo5xRjtTXa_8e8tVEe3MZZW-z5OXKX9lYg1HzI3-xHW0-IO-NaLla03ZKyYM4MDggi1ZmDzVJmeKAme-2fHIqaScnuIuMBn90Lz4E-B4oKJmgXhmNnK4i4q0obSnZ8LPWNGuL_6wQjYnO-X4GUqIXkh3SvmtYcNjK6XxsiJteTrBDECkbwJwj5KoCWl9G5OmLkCQgiqO8CLDPXRRoWJ5YjXOHHmwP5Re97JsZBEH9FUiM1vRh-bzkVWuWC4A85wTL046Zd44CIchZvl28009lv9dnIOPkli47I5EbxfqmGqISg3PlLA9AxyczNAm8goWhIO0OM70Y0r8yB2Ohfm3XcyBUX0WWIpn5GfZA6gUroyBUsjDdBbzYhknmukUrpgkDr2wy19qbKUsp4zg&authuser=0");
+  font-family: Silk;
+  src: url("../fonts/silkserif.otf");
 }
 
 
@@ -42,25 +42,7 @@
   padding-top: 15px;
 }
 
-.navbar-toggler-icon {
-  background-image: url(../img/bars-solid.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-}
 
-.navbar-toggler { 
-  color: transparent;
-}
-
-.navbar-toggler-icon:hover {
-  background-image: url(../img/bars-solid-hover.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-}
-
-.navbar-toggler-icon:focus {
-  background-image: url(../img/bars-solid-hover.svg);
-}
 
 
 
@@ -88,7 +70,7 @@
 }
 
 .subtitleHero {
-  font-family: Silkserif;
+  font-family: Silk;
   font-size: calc(0.65rem + 1.75vw);
   text-align: center;
 }
@@ -169,7 +151,7 @@
 
 
 .accordion-button{
-  font-family: Silkserif;
+  font-family: Silk;
   font-size: calc(0.6rem + 2.5vw);
   text-align: center;
   border-bottom: solid 3.5px;
@@ -177,7 +159,7 @@
 }
 
 .accordion-button:not(.collapsed){
-  font-family: Silkserif;
+  font-family: Silk;
   font-size: calc(0.6rem + 2.5vw);
   text-align: center;
   border-bottom: solid 3.5px;
@@ -202,7 +184,7 @@
 }
 
 #skills h2 {
-  font-family: Silkserif;
+  font-family: Silk;
   color: black;
   font-size: calc(2.5rem + 2vw);
   text-align: center;
@@ -250,7 +232,7 @@
   transition: all 0.3s;
   padding: 5px 5px;
   border-radius: 50px;
-  font-family: Silkserif;
+  font-family: Silk;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
   color:#D1C6F3 ;
@@ -415,7 +397,7 @@
 
 .contacttype {
   font-size: 30px;
-  font-family: Silkserif;
+  font-family: Silk;
 }
 
 .contactlink {
@@ -440,7 +422,7 @@
 
 .footertitle {
   font-size: 40px;
-  font-family: Silkserif;
+  font-family: Silk;
 }
 
 
@@ -470,7 +452,7 @@
 }
 
 #buttonsend {
-  font-family: Silkserif;
+  font-family: Silk;
   font-size: 25px;
   padding: 5px 15px;
   border-style: none;
